@@ -1,2 +1,2 @@
-# Contact-Centre-Migration-Reporting
-Synthetic portfolio simulation inspired by your migration experience, clearly distinguishing the three-site practice dataset from your actual seven-site work.
+# Crane Air - Contact-Centre-Migration-Reporting
+Crane Air is a synthetic airline contact-centre migration project inspired by my project coordination experience. Employee records, staffing allocations, queues, thresholds and results are simulated. Public sources and user-confirmed historical information inform the site language examples.
